@@ -50,5 +50,5 @@ A modern full-stack application built entirely with DartLang, combining:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AnkushCodes/fullstack_dart.git
+   git clone (https://github.com/AnkushCodes/fullstack_d)
 # fullstack_d
